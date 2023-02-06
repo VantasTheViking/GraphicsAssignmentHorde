@@ -16,7 +16,7 @@ Numpad Controls:\
 0-2 change illumination on objects\
 0 - standard\
 1 - Diffuse\
-2 - Specular\
+2 - Specular
 
 4-7 change color grading\
 4 - Standard Noir\
